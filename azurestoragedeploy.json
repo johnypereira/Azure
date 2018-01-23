@@ -7,6 +7,7 @@
   },
   "resources": [
     {
+      "resource_group": "RG_ALCW_VmsTeste",
       "name": "stgtestejson01",
       "type": "Microsoft.Storage/storageAccounts",
       "apiVersion": "2016-01-01",
